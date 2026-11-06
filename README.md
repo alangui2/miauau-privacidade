@@ -1,2 +1,2 @@
 # miauau-privacidade
-Politica de privacidade do jogo Miauau: Gatos vs Cacorros (Android)
+Política de privacidade do jogo Miauau: Gatos vs Cachorros (Android)
